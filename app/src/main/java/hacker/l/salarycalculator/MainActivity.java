@@ -1,4 +1,4 @@
-package hacker.l.gstcalculator;
+package hacker.l.salarycalculator;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -20,7 +20,6 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;

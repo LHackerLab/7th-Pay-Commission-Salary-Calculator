@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hacker.l.gstcalculator">
+    package="hacker.l.salarycalculator">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@drawable/gst"
         android:supportsRtl="true"
         android:theme="@style/ToolBarStyle">
-        <activity android:name=".MainActivity">
+        <activity android:name="hacker.l.salarycalculator.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

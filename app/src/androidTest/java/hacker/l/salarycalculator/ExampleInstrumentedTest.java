@@ -1,4 +1,4 @@
-package hacker.l.gstcalculator;
+package hacker.l.salarycalculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
